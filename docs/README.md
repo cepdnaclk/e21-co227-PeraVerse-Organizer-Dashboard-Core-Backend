@@ -3,11 +3,11 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard
+repository-name: cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend
 title: Organizer Dashboard of the Engex exhibition crowd management system
 ---
 
-# Peraverse Organizer Dashboard (Team-02)
+# Peraverse Organizer Dashboard Core Backend (Team-02)
 
 ---
 
@@ -145,8 +145,8 @@ This enhances organizer efficiency, improves coordination, and ensures smooth ma
     
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard)
-- [Project Page](https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard/)
+- [Project Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend)
+- [Project Page](https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
